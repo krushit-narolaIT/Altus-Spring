@@ -1,0 +1,18 @@
+<html>
+  <body style="font-family:Arial,sans-serif;background-color:#f9f9f9;padding:5px;">
+    <div style="max-width:600px;margin:0 auto;background-color:#ffffff;padding:10px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);">
+      <h2 style="color:#333;">Welcome to <span style='color:#007bff;'>Altus</span>, {firstName} {lastName}!</h2>
+      <p style="font-size:16px;color:#555;">We're thrilled to have you on board. Altus is your new way to get around &#x2d; safe, fast, and stress-free.</p>
+      <hr style="border:none;border-top:1px solid #eee;margin:20px 0;" />
+      <h3 style="color:#333;">3 Easy Steps to Get Started:</h3>
+      <ol style="padding-left:20px;font-size:15px;color:#555;">
+        <li><strong>Order a Ride:</strong> Use the Altus webapp to request your first ride.</li>
+        <li><strong>Driver Comes to You:</strong> We&#x2019;ll notify you when your driver is on the way.</li>
+        <li><strong>Hop In & Go:</strong> Reach your destination, and we&#x2019;ll email you a receipt.</li>
+      </ol>
+      <p style="margin-top:20px;font-size:16px">Need help? Our support team is available 24/7.</p>
+      <p style="font-size:16px"><strong>Let&#x2019;s get moving!</strong></p>
+      <p style="font-size:16px">&#x2d; The Altus Team</p>
+    </div>
+  </body>
+</html>
